@@ -1,0 +1,3075 @@
+/*--------------*/
+
+26-02-2025
+
+- IT - Information Technology 
+
+- Information
+
+- walking - hourse - train - cycyle - ship   
+- letter - telegram - telephone - printing - radio - television - pajor 
+					landline - codeless - cellphone 
+					
+- IPO - Input -> Process -> Output 
+
+- Information Technology 
+- Projects 
+- Software Develope
+- Website Develope 
+- Application Develope 
+- Game Developement 
+- Automation Testing 
+
+
+- program 
+	- code - logical building - 
+	- set of instructions
+	- recipe - algorithm - step by step  
+- Software 
+	- the things that you can not touch physically 
+	- group of programs 
+		- play store - download 
+		- registration 
+		- login 
+		- search product 
+		- filter 
+		- product details 
+		- add to cart 
+		- buy 
+		- address 
+		- phone 
+		- payment 
+			- 
+		- confirmation - SMS - e-mail 
+		- Bill 
+		- trackiung 
+- Hardware 
+	- the things that you can touch physically 
+- team 
+- team leader (TL) 
+- programmer / developer 
+	- who writes a program 
+- tester
+	- who test the program 
+sheep 
+
+- editor / IDE 
+	- Integrated Developement Environment 
+	- Eclipse 
+- language 
+	- communication - 2 - system - Java 
+	- basic - grammar - rules - Syntax 
+	- S + V + O 
+
+- चार 
+
+/*---------------*/
+
+27-02-2025 
+
+- IT related job available in company
+- role 
+
+- priciple - IPO - input - process - output 
+- porgram 
+	
+- software
+- harware 
+- algorithm - recipe - 
+- invention of technology 
+- tester 
+- developer
+- teams 
+- process of application 
+- IDE - eclipse 
+- editor 
+- language - Java 
+
+- highly secure 
+- platform indepedent
+- popular 
+- industry requirement 
+- compiler and interpreted 
+- well structure 
+- object oriented language 
+- multi-threading 
+- portable 
+- good scope 
+- easy to understand 
+- user friendly 
+- used for desktop , web and mobile application 
+
+- Features of Java 
+
+1. Simple 
+	- English 
+	- System - class 
+	- long - data type 
+	- Collection - interface 
+	
+2. Platform Independent
+	- Platform - Operating System - OS 
+	- Windows, Linux, MacOS(IOS)...etc 
+	- extension 
+		- audio - *.mp3
+		- video - *.mp4 
+		- pdf - Portable Document Format 
+	- by which the system can identify the type of the file 
+	
+3. Portable 
+	-  
+	
+4. Robust 
+5. Strong Memory Management 
+	- check the syntax 
+	- it is related to the memory management 
+	- it is used for garbage collector 
+	
+6. Secure 
+	- JDK - Java Developement Kit 
+		- lib 
+		- doc 
+		- JRE - Java RunTime Environment 
+			- lib 
+			- JVM - Java Virtual Machine (Interpreter)
+			
+7. Dynamic 
+	- 
+8. Multi-Threading 
+	- 
+9. Object Oriented Programming 
+	- 
+10. Free 
+	- 
+11. Open Source 
+	- 
+12. Distributed 
+	- 
+	
+/*----------------*/
+
+28-02-2025
+
+- Features of Java 
+
+1. Portable 
+2. Simple 
+3. Secure 
+4. Robust 
+5. Platform Independent 
+6. Open Source 
+7. Object Oriented Programming 
+8. Multi-Threading 
+9. Distributed 
+10. Dynamic 
+11. Strong Memory Management 
+12. Free
+
+-> Object Oriented Programming 
+
+1. class 
+- syntax
+e.g
+class class_name{
+
+} 
+class A{
+
+}
+
+2. Object 
+3. Multi-Threading 
+4. Abstraction
+5. Inheritance 
+6. Encapsulation 
+7. Polymorphism  
+8. Message Passing 
+9. Dynamic 
+10. Overloading 
+
+e.g 
+C++, Java , Python, .Net
+
+-: JDK - Java Developement Kit 
+	- lib 
+	- documents 
+	- JRE - Java RunTime Environment 
+		- lib
+		- JVM - Java Virtual Machine 
+
+-: JIT - Just In Time Compiler 
+	- it introduce in java-1.2 
+	- it will help to the JVM to execute byte code fastly
+
+-: Web Developement, Anroid Application, Desktop Software Developement, Game Developement, Cloud Based Application, Automation Testing, Micro Services, Enterprise Application (Banking), Stock Market
+
+-: Is Java pure object oriented programming language?
+1. Primitive Data Type 
+e.g 
+int y=100;
+boolean b1=false;
+
+2. Opeator Overloading - not support by java
+3. Multiple Inheritance 
+4. Destructor 
+
+-: Java strongly support object oriented programming concepts 
+-: Java is strongly object oriented programming language 
+
+-: Keywords 
+- it is a predefine words 
+- it has predefine meaning 
+- you can not used those keywords anywhere else 
+- total keywords in java 53 
+
+a) Data Type (8)
+
+1. int 
+2. float 
+3. char 
+4. boolean 
+5. long 
+6. double 
+7. short 
+8. byte 
+
+b) Control Statement (11)
+
+1. if 
+2. else 
+3. switch 
+4. case 
+5. default 
+6. break;
+7. while 
+8. continue 
+9. for
+10. do 
+11. return 
+
+c) Exception (5)
+
+1. try
+2. catch
+3. finally 
+4. throw
+5. throws 
+
+d) Access Modifier (4)
+
+1. public 
+2. private 
+3. default 
+4. protected 
+
+e) Modifier (8)
+
+1. final 
+2. abstract 
+3. static 
+4. native 
+5. synchronized 
+6. transient 
+7. volatile 
+8. strictfp 
+
+f) class (7)
+
+1. class 
+2. extends 
+3. implements 
+4. interface 
+5. super 
+6. this 
+7. new 
+
+g) package (2)
+
+1. package
+2. import 
+
+h) Others (5)
+
+1. goto
+2. const 
+3. void 
+4. enum 
+5. instanceof 
+6. assert 
+
+(Java By Kiran) -> JBK Tutorials
+- https://thekiranacademy.com/tutorials/index.php#gsc.tab=0
+
+
+/*----------------*/
+
+03-03-2025
+
+-: Last Session 
+-: Today's Topic 
+-: User Define Words 
+
+- Object Orientated Language 
+- Keywords 
+
+-: identifiers 
+1. it will starts with letters 
+e.g 
+int y;
+double price;
+
+2. you can not used special synbols - except underscore[_] and dollar [$]
+e.g 
+int student#age;//Error 
+double book_price;
+long kilo$meter;
+
+3. it will not starts with number 
+e.g 
+int 123age;//Error 
+double price123;
+
+4. you can used number as suffix 
+e.g 
+int 123age;//Error 
+double price123;
+
+5. no character limit for user define words 
+int yyyyyyyyyyyyyyyyyHyyyyyyyyyyyyyy=1;
+print(yyyyyyyyyyyyyyyyyHyyyyyyyyyyyyyy);
+
+- there are no meaning for identifiers 
+- it is difficult to remember the name
+- may be it required memory 
+- it is difficult to understand the meaning 
+- it is time cunsuming  
+
+6. declare identifiers with short and meaningfull name 
+e.g
+int d=30;
+int age=30;
+int studentAge=30;
+
+7. java is unicode based language 
+e.g 
+- unicode - it is an extension of ASCII 
+- ASCII - American Standard Code for Information Interchange 		
+	- 256 character - 0 to 255
+
+- unicode - 65536 - 0 to 65535
+
+8. Java is a case sensitive language 
+print("A"); - 65 
+print("a"); - 97 
+		----------
+			  32 
+			  
+e.g 
+int time; 	int Time;	int TIME;
+
+9. it does not contain space 
+e.g 
+int student age;//Error 
+int student_age;
+
+10. you can not used keywords as identifiers 
+String int="Mango";//Error 
+
+11. identifiers 
+
+a) class_name
+b) variable_name
+c) interface_name
+d) package_name
+e) array_name
+f) enum_name
+g) method_name 
+h) constructor_name
+i) object_name 
+
+12. do not identifiers as variable_name 
+e.g 
+int String =100;
+
+package org.mck.str_1;
+
+public class A {
+	public static void main(String[] args) {
+		int y=100;
+		System.out.println(y);
+	}
+}
+
+1. A - class_name 
+2. org.mck.str_1- package_name 
+3. y - variable_name 
+4. main() - method_name 
+5. args - array_name 
+6. String - class_name 
+7. System - class_name 
+8. out - variable_name 
+9. println() - method_name 
+
+-: Data Type 
+
+- Data - Information 
+- Type - Category / Format 
+
+- image - jpeg/ jpg, png, gif 
+- PPT 
+- PDF - Portable Document Format 
+- Audio - mp3
+- Video - mp4, mkv
+- Excel Sheet 
+- JAR - Java Achrives 
+- ZIP - WinRar
+
+- name of the type 
+- utility of the type 
+- scope (range) of the type 
+- size of the type 
+
+- byte < short < int < long < float < double 
+
+/*--------------*/
+
+04-03-20253
+
+-: Last Session 
+-: Mark Your Attendance
+-: Today's Topic 
+-: Variable 
+
+- byte < short < int < long < float < double 
+char --------------^
+
+boolean
+
+- variable 
+	- it is a name of memory location, which is used to store, update and manipulate the data
+- syntax 
+data_type variable_name = value;
+e.g 
+int y=100;
+
+int - data_type 
+y - variable_name 
+100 - value 
+
+- variable_name is identifiers 
+
+double d;
+d=33.11;
+
+- you can change the value of variable 
+int y1=100;
+print(y1);
+y1=400;
+print(y1);
+
+- variable always take updated value 
+
+- types of variable 
+1. primitive variable 
+2. reference variable 
+
+1. primitive variable 
+- long h1=4000; boolean b1=false;
+- byte b1=44; double d1=55.11;
+- default value - as per the data type 
+
+2. reference variable 
+- String s1="Mango";
+public class Test{
+	Test t1=new Test();
+}
+
+s1- reference variable 
+t1- reference variable 
+- 8 byte 
+- default value - null 
+String s1;
+print(s1);
+Test t2;
+print(t2);
+
+-: final variable 
+- the value of final variable can not be change 
+- syntax 
+	final data_type variable_name=value;
+e.g 
+	final int y1=100;
+	print(y1);
+	
+	y1=400;//Error 
+	print(y1);
+
+/*--------------*/
+
+05-03-20253
+
+-: Last Session 
+-: Mark Your Attendance
+-: Today's Topic 
+-: Eclipse Installation
+
+- WorkSpace -> Project -> src -> package ->  class  
+
+/*-----------------*/
+
+06-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Operators in Java 
+
+-: Operators 
+	- who perform some action on variable or constant value 
+-: Operand 
+	- on which the operator perform some action 
+-: Types of Operators
+
+a) Arithmetic Operator (5)
+
+1. Addition [+]
+2. Subtraction [-]
+3. Multiplication [*]
+4. Division [/] - it will divide a number 
+5. Moduls - Mod [%] - it will give remainder - it will not divide a number 
+
+BODMAS 
+
+- all arithmetic operator is applicable to all numerical data type 
+- even it is also applicable to char data type 
+- it is not applicable to boolean data_type 
+- [+] - Only this operator you can used for to join the String 
+
+-> 
+b) relational operator (comparison operator) (6)
+
+1. less than - [<]
+2. greater than - [>]
+3. less than equal to - [<=]
+4. greater than equal to - [>=]
+5. equal to - [==]
+6. not equal to - [!=]
+
+- result type -: boolean (true/false)
+- this relational operator is applicable to all numerical data_type and character also 
+- only == and != operator is applicable to String and boolean data_type 
+- it is used to make a condition 
+
+c) logical operator (3)
+- it is used to join more than one condition 
+
+1. and - [&&]
+2. or - [||]
+3. not - [!]
+
+- and [&&]
+T	T	->	T
+F	T	-> 	F
+T	F	->	F
+F	F	->	F
+
+- or [||]
+T	T	->	T
+F	T	->	T
+T	F	->	T
+F	F	->	F
+
+- not [!]
+
+T	->	F
+F	->  T
+
+d) assignment operator (6)
+
+1. assignment operator - [=]
+	int y=10;
+	int h=y;
+	print(h);
+	
+2. int g=4;
+	print(g);
+	//g=g+5;
+	g+=5;//=> g=g+5;
+	print(g);
+
+3. int y=10;
+	//y=y-4;
+	y-=4;//=> y=y-4;
+	
+4. int h=6;
+	h*=5;//h=h*5;
+	
+5. long d=600;
+	d/=10;//d=d/10;
+	
+6. int b=15;
+	b%=2;//b=b%2;	
+
+e) increment / decrement operator (2)
+	(++)		(--)
+	
+- increment - the value will increment by 1 
+	- post increment -: first used the value and then increment it 
+	int y=10;
+	print(y);
+	y++;//y=y+1;
+	print(y);
+	
+	- pre increment -: first increment the value and then used it 
+	int h=5;
+	print(h);
+	++h;
+	print(h);
+
+- decrement - the value will decrement by 1 
+	- post decrement -: first used the value and then decrement it 
+	int f=5;
+	print(f);
+	f--;
+	print(f);
+	
+	- pre decrement -: first decrement the value and then used it 
+	long h=10;
+	print(h);
+	--h;
+	print(h);
+	
+e.g 
+int h=100;
+print(h);//100
+h--;
+print(h);//99
+h++;
+print(h);//100
+
+int a=10,b=5,c=8;
+
+int d=a+b+c;
+print(d);//23
+
+a=10;b=5;c=8;
+d=(a+b)*2-c;
+print(d);//22
+
+a=10;b=5;c=8;
+d=(a+b--)-c+b;
+print(d);//2 , 11, 1, 
+
+a=10;b=5;c=8;
+d=a+(++b)/2*10- --b+ ++c;
+print(d);//91, 35, 44
+
+long d=55;
+print(d);//55
+print(d--);//54
+print(--d);//54
+
+int h=22;
+print(h);//22
+print(++h);//23
+print(h++);//23,24
+
+f) conditional operator (Ternary Operator)
+-syntax 
+	result=(condition)?expression_1:expression_2;
+	e.g
+	String s=(100==55)?"Apple":"Cherry";
+	print(s);
+
+g) bitwise operator 
+
+1. and -: &
+2. or  -: |
+3. xor -: ^
+4. left shift -: <<
+5. right shift -: >>
+6. not -: ~
+
+int a=10,b=5,c=8;	
+int d=0;
+
+d=a+b+c;
+print(d);
+
+d=(a+b)/c;
+print(d);
+
+d=(++a - --b) - ++c;
+print(d);
+
+d=(a/b)*c;
+print(d);
+
+d=a*b/c;
+print(d);
+
+d=a+(++b)/2*10- b-- + ++c;
+
+-: Scanner 
+
+1. it is a class 
+2. it is a final class 
+3. it is present in java.util package 
+4. it introduce in java-1.5
+5. it is an utility class - which is used to accept data from user or read the file 
+6. Object 
+	Scanner sc=new Scanner(System.in);
+
+- byte 	- nextByte();
+- short - nextShort();
+- int	- nextInt();
+- long  - nextLong();
+- float - nextFloat();
+- double - nextDouble();
+- char - 
+- boolean - nextBoolean();
+String - next() / nextLine();
+
+1. write a program to accept 2 int number and print total of it 
+2. print subtraction of int number 
+3. print multiplication of int number 
+4. print division of int number 
+5. print mod of int number 
+
+6. write a program to accept 3 int number print average of it 
+7. write a program to calculate area of Circle 
+8. write a program to calculate circumference of Circle 
+9. write a program to calculate area of Square 
+10. write a program to calculate area of Rectangle 
+
+/*------------------*/
+
+10-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Control Statements in Java 
+
+-: Scanner class 
+- it is final class 
+- it is present in java.util package 
+- it is used to accept the value from user or read the text file 
+- object 
+	Scanner scan=new Scanner(System.in);
+- it introduce in java-1.5
+
+- following method is used to accept value from user 
+a) byte 	-> nextByte();
+b) short 	-> nextShort();
+c) int 	-> nextInt();
+d) long	-> nextLong();
+e) float	-> nextFloat();
+f) double	-> nextDouble();
+g) char 
+h) boolean -> nextBoolean();
+i) String -> next() /nextLine();
+
+-> Control Statement 
+- it is used to control the flow of execution of program 
+- types of control statement 
+a) selection control statement 
+b) looping control statement 
+c) transfer control statement 
+
+a) selection control statement 
+
+- if...else 
+- syntax 
+	if(condition){
+		//if block 
+	}else{
+		//else block 
+	}
+
+1. check the number is +ve or -ve 
+2. check the number is even or odd
+3. check the number is divisible 3 or not 
+4. check the number is divisible 3 and 5 
+
+- else..if ladder 
+if(condition){
+	
+}else{
+	
+}
+--
+if(condition){
+	
+}else if(condition){
+	
+}else{
+	
+}
+
+-- 
+if(condition){
+	
+}else{
+	if(condition)
+}
+
+double per=70;
+per >= 75 - "A1";
+per < 75 and per >=65 - "A2";
+per < 65 and per >=55 - "B1";
+per < 55 and per >=45 - "B2";
+
+
+
+- switch...case 
+- syntax 
+	switch(expression){
+		case 1:
+			
+		break;
+		case 2:
+	
+		break;	
+		case 3:
+		
+		break;
+		default:
+		
+		break;
+	}
+- expression - int ,char, String(Java-1.7)
+
+- vowels 
+- String - nation - capital  
+
+- write a program to accept number from user 
+	1. Addition 
+	2. Subtraction 
+	3. Multiplcation
+	4. Division
+	5. Mod 
+
+/*-*-*-*-*-*-*-*-*-*-*/
+-> Task 
+1. write a program to check the number is divisible 4 or 7 
+2. write a program to generate following result 
+	- if number is divisible by 3 - print "Mango";
+	- if number is divisible by 5 - print "Cherry";
+	- if number is divisible by 3 and 5 - print "Mango and Cherry";
+	- otherwise print number only 
+
+
+
+b) looping control statement 
+
+- it is used to repeat the block of code till the condition is true 
+
+- initialization 
+- condition 
+- update_value 
+
+1) for loop
+-syntax 
+for(initialization; condition; update_value){
+	//for loop block 
+}
+
+e.g 
+int k=1;
+for(k=1; k<=10; k++){
+	print(k);
+}
+
+2) while loop
+initialization
+while(condition){
+	//while loop block
+	update_value
+}
+
+e.g
+int g=14;//initialization
+while(g<=34){
+	print(g);
+	g++;
+}
+
+3) do while loop
+
+initialization
+do{
+	//do while loop block 
+	update_value
+}while(condition);
+
+e.g
+int d=6;
+do{
+	print(d);
+	d++;
+}while(d<=16);
+
+
+1. print the number from 2 to 44 used for loop
+2. print the number from 55 to 11 used while loop
+3. print the number 33 to 11 used do while loop
+4. print the number from 1 to 50 used for loop increment by 4
+5. print the number 33 to -11 used do while loop decrement by 3
+
+c) transfer control statement 
+
+1. break 
+	- it will terminate the loop - if condition is true 
+2. continue 
+	- it will skip the current iteration of loop - if condition is true 
+	
+- position 
+-: code before the statement 
+-: condition for the statement 
+-: code after the statement 
+
+6. print the number from 44 to 88 and stop loop at 57 - used for loop
+7. print the number from 101 to 145 and do not print number divisible by 4 - used while loop 
+int k=101;
+while(k<=145) {
+	if(k%4==0) {
+		k++;
+		continue;
+	}
+	System.out.println(k);
+	k++;
+}
+8. print the square from 1 to 10
+
+for(int k=1;k<=10;k++){
+	int c=k*k;
+	print(c);
+}
+
+9. print the cube from 1 to 10
+10. print the square of even number from 1 to 10 
+--- 
+for(int k=1;k<=10;k++){
+	if(k%2==0){
+		int c=k*k;
+		print(c);
+	}
+}
+
+11. print the cube of even number from 1 to 10 
+for(int k=1;k<=10;k++) {
+	if(k%2==0) {
+		int c=k*k*k;
+		System.out.println(c);
+	}
+}
+12. print the sum of 1 to 10 number 
+
+int sum=0;
+for(int k=1;k<=10;k++){
+	sum=sum+k;
+}
+print(sum);
+
+13. print the product of 1 to 10 number 
+14. print the sum of even number from 1 to 10 
+15. print the product of even number from 1 to 10 
+
+
+/*------------------*/
+
+13-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Practical 
+
+-: JBK Test 
+https://thekiranacademy.com/test/online-exam#Java
+
+-: JBK Tutorial
+https://thekiranacademy.com/tutorials/corejava/introduction-to-java.php#gsc.tab=0
+
+
+-> do the following programs 
+
+1. write a program to sum of even numbers from 33 to 55 
+2. write a program to product of odd numbers from 25 to 5 
+
+3. 
+int y=5413;
+int n=0;
+print(y);
+print(n); 
+
+n=y%10;
+print(n);//3
+y=y/10;
+print(y);//541
+
+n=y%10;
+print(n);//1
+y=y/10;
+print(y);//54
+
+n=y%10;
+print(n);//4
+y=y/10;
+print(y);//5
+
+n=y%10;
+print(n);//5
+y=y/10;
+print(y);//0
+
+n=y%10;
+print(n);
+y=y/10;
+print(y);
+
+- print each digit of number 
+int y=5413;
+int n=0;
+while(y>0){
+	print(y);
+	n=y%10;
+	print(n);
+	y=y/10;
+}
+
+4. write a program to print square of each digit of number 
+int y=5413;
+int n=0;
+
+while(y>0){
+	n=y%10;
+	print(n*n);
+	y=y/10;
+}
+
+5. write a program to print cube of each digit of number 
+6. write a program to print square of odd digit of number 
+7. print the number in reverse 
+int y=5413;
+int n=0,r=0;
+while(y>0){
+	n=y%10;
+	r=(r*10)+n;
+	y=y/10;
+}
+print(y);
+
+8. check the number is palindrome or not 
+int y=171;
+int n=0,r=0;
+int t=y;
+while(y>0){
+	n=y%10;
+	r=(r*10)+n;
+	y=y/10;
+}
+print(y);//0
+print(r);//171
+print(t);//171
+if(r==t)
+	print("palindrome");
+else
+	print("not palindrome");
+
+9. write a program print sum of digit of number 
+int y=5413;
+//int sum=3+1+4+5;=13;
+int sum=0,n=0;
+while(y>0){
+	n=y%10;
+	sum=sum+n;
+	y=y/10;
+}
+print(sum);
+
+
+10. write a program print product of digit of number 
+int y=5413;
+int product=1,n=0;
+
+11. write a program to print factorial of number 
+int y=5;
+//fact = 1*2*3*4*5;
+int x=1;
+for(int i=1;i<=y;i++){
+	x*=i;//x=x*i;
+}
+print(x);
+
+12. write a program to calculate power of number 
+int base=4,power=7;
+//p=4*4*4*4*4*4*4;
+int r=1;
+for(int i=1;i<=power;i++){
+	r*=base;//r=r*base
+}
+print(r);
+
+13. check the number is prime number or not 
+int y=5;
+int count=0;
+for(int i=1;i<=y;i++){
+	if(y%i==0)
+		count++;
+}
+if(count==2)
+	print("prime number");
+else 
+	print("not a prime number");
+
+14. write a program to count number divisible 4 and 7 from 145 to 451
+int count=0;
+for(int i=145;i<=451;i++){
+	if(i%4==0 && i%7==0)
+		count++;
+}
+print(count);
+
+
+/*-*-*-*-*-*-*-*/
+
+
+17-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Practical
+
+-: Pattern 
+
+1. Fibonacci Series 
+0 1 1 2 3 5 8 13 21.....
+
+int n1=0,n2=1,n3=0;
+print(n1+" "+n2);
+for(int k=1;k<=10;k++){
+	n3=n1+n2;
+	print(n3);
+	n1=n2;
+	n2=n3;
+}
+
+
+2. 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+
+for(int r=1;r<=5;r++) {
+	for(int c=1;c<=5;c++) {
+		System.out.print("* ");
+	}
+	System.out.println();
+}
+
+3. 
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+4. 
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+A B C D E
+
+5.
+* * # * *
+* * # * *
+* * # * *
+* * # * *
+* * # * *
+
+6. 
+* * * * *
+* * * * *
+# # # # #
+* * * * *
+* * * * *
+
+7. 
+*
+* *
+* * *
+* * * *
+* * * * *
+
+R-5
+C-5
+R-C=R=C
+
+for(int r=1;r<=5;r++){
+	for(int c=1;c<=r;c++){
+		print("* ");
+	}
+	println();
+}
+
+8.
+1
+1 2 
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+9.
+A 
+A B 
+A B C 
+A B C D 
+A B C D E
+
+10.
+
+		*
+	  * *
+	* * *
+  * * * *
+* * * * *
+
+R-5
+C-5
+R-C=R=C
+
+int sp=5;
+for(int r=1;r<=5;r++) {
+	for(int k=1;k<=(sp-r);k++) {
+		System.out.print("  ");
+	}
+	for(int c=1;c<=r;c++) {
+		System.out.print("* ");
+	}
+	System.out.println();
+}
+
+11.
+		1
+	  1 2 
+	1 2 3
+  1 2 3 4
+1 2 3 4 5
+
+
+12. 
+		A
+	  A B
+	A B C 
+  A B C D
+A B C D E
+		
+13.
+    *
+   * *
+  * * *
+ * * * * 
+* * * * *
+
+
+/*--------------------*/
+
+18-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Types of Variable 
+
+-- data_type 
+1) primitive variable 
+	int d=700;
+2) reference variable 
+	String name="Rohan";
+
+-- position 
+1) instance variable 
+- the variable which is declare inside the class and outside the method 
+- it is object level variable 
+- it will create sperate copy for each object 
+- it will get memory allocation when object is created 
+- memory deallocation done when object will destroy 
+- compiler will give default value - if you not assign value while declaring 
+- all access_modifier is applicable to instance variable 
+- final modifeir is also applicable to it 
+
+2) static variable 
+- the variable which is declare inside the class and outside the method but having a prefix as a static 
+- it is class level variable 
+- it will create single copy of variable and share to all resources of class 
+- it will get memory allocation when class is loaded into memory 
+- memory deallocation done when class unloaded from memory 
+- compiler will give default value - if you not assign value while declaring 
+- all access_modifier is applicable to static variable 
+- final modifeir is also applicable to it 
+
+
+3) local variable 
+{
+	int d=100;
+}
+print(d);
+
+- it will declare inside method 
+- it will store into a stack memory 
+- it is used to store a data for temporary purposed 
+- it will get memory allocation when method execution start 
+- memory deallocation done when method execution terminate 
+- compiler will not give default value
+- all access_modifier is not applicable to local variable
+- final modifeir is also applicable to it 
+e.g
+for(int k=1;k<=5;k++){
+	System.out.println("Apple");
+}
+//System.out.println(k);
+- here 'k' is local variable 
+int y=100;
+if(y>=100)
+{
+	int d=700;
+}
+//System.out.println(d);
+- here 'd' is local variable
+- method argument are local variable to the method 
+
+class A{
+	int y=100;//instance-primitive 
+	String s="Rohan";//instance-reference 
+	static String s1="Apple";//static-reference 
+	static long h=500;//static-primitive 
+	
+	A a2=new A();//reference-instance
+	static A a3=new A();//static-reference
+	
+	main(){
+		boolean b1=false;//local-primitive
+		A a1=new A();//local-reference
+	}
+}
+
+/*----------------*/
+
+19-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Method In Java
+
+public static void main(String []args){
+	
+}
+
+- it is a sub program 
+- it will divide a large program into a small program 
+- syntax / method_proptotype / method_signature
+
+access_modifiers return_type method_name(parameter_list){
+	
+}
+e.g 
+public void total(int a,int b){
+	
+}
+
+- access_modifiers - public 
+- return_type - void 
+- method_name - total 
+- method_name is identifier 
+- parameter - int a,int b
+
+- types of method 
+a) instance method 
+b) static method 
+
+1. write a method to check number is even or odd - pass number as parameter 
+2. write a method to check number is divisible by 3 and 5 - pass number as parameter 
+
+public void m1() {
+		
+}
+
+- void  means nothing - not even 0 and null 
+
+3. write a static method to print even number from 1 to 10
+4. write a static method to print cube number from 30 to 10 
+
+-: Note - it is recommended that to access static variable and static method by using class_name 
+
+5. write a static method to perform cube of number - pass number as parameter 
+6. write a static method to return square of number - pass number as parameter 
+7. write a method to print sum of 1 to 10 number 
+8. write a method to return product of 1 to 10 number 
+9. write a program to accept option and perform task (menu-Driven)
+	1. Addition 
+	2. Subtraction 
+	3. Multiplication 
+	4. Division 
+	5. Mod 
+	
+-: Question 
+a) what is method 
+b) explain types of method and variables 
+
+1. write a program - write a method to check number is prime or not 
+2. write a program - write a method to check number is even or not 
+3. write a method to check the number is palindrome or not 
+4. write a method to print power of number - pass 2 int as parameter 
+e.g
+int base=4,power=7;
+
+6. write a program - write a method to check number is odd or not 
+7. write a program - write a method to count the digit of number 
+8. write a program - write a method to reverse the number 
+9. write a program - write a method to check the number is palindrome or not
+10. write a program - write a method for fibo number series 
+
+/*-----------------------*/
+
+20-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: class and object 
+ 
+-: class 
+1. it is blue print of object 
+2. it is virtual entity 
+3. it is logical entity 
+4. syntax 
+access_modifier class class_name{
+	
+}
+e.g
+public class Student{
+	
+}
+
+5. class_name is identifiers 
+6. class_name is reference data_type 
+7. class will tell the status and behaviour of object 
+8. class contain 5 elements 
+	a) int y=100; - variable 
+	b) method 
+	public void m1(){
+		
+	}
+	c) object 
+	Student s1=new Student();
+	d) constructor 
+	e) block - (static / instance)
+9. class does not required memory 
+10. final and abstract modifeir is applicable to the class 
+11. you can create empty class 
+12. for outer class public and default access_modifier is applicable 
+13. for inner class all access_modifier is applicable - even static modifeir also 
+
+
+public class Student{
+	
+}
+
+public class Studentinfo{
+	
+}
+
+public class StudentInfo{
+	
+}
+public class Student_info{
+	
+}
+
+-: object 
+1. it is instance of a class 
+2. it is real world entity 
+3. it is physical entity 
+4. syntax 
+	class_name object_name=new class_name();
+e.g
+public class Book{
+	Book b1=new Book();
+	int y=100;
+	new Book();
+}
+
+5. object_name is reference variable 
+6. object_name is identifiers 
+7. object required memory 
+8. you can create many object of one class 
+9. every object have different memory location
+10. object will implements status and behaviour of class 
+
+Note -: 
+a) you can not create object without a class 
+b) you can create class without object 
+
+-> Question 
+a) what is class 
+b) what is object 
+
+1. create a class Maths
+	- define a method to return sum of 2 int - pass number as parameter 
+	- define a method to return subtraction of 2 int - pass number as parameter 
+	- define a method to return multiplication of 2 int - pass number as parameter 
+	- define a method to return division of 2 int - pass number as parameter 
+	- define a method to return mod of 2 int - pass number as parameter 
+
+- create a class MathsDemo
+	- define main() method call Maths class method 
+	- accept int value from user 
+
+2. create a class Book
+	- define Book's properties 
+	- book_name, book_price, book_qnty, book_author,book_pages,total
+	- define a method to accept properties - accept int value from user 
+	- define a method to calculate total 
+	- define a method to show properties 
+
+- create a class BookDemo
+	- define main() method and call Book class method 
+
+3. print the following series  
+a) 1 4 9 16 25 ....
+b) 1 8 27 64 125 ....
+c) 1 5 10 17 26 ....
+
+/*----------------*/
+
+21-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: package in Java
+
+-: package 
+- it is a collection of classes and interfaces 
+- it is a folder (directory)
+- syntax 
+	package package_name;
+	e.g 
+	package demo;
+	package com.jbk.test;
+- com - it is a root package 
+- jbk.test - it is a sub package 
+- package will not create a class 
+- generally package_name define in lower case letter 
+- only one package statement in one java file 
+- it should be the first statement of java file 
+- you can create many package in one project 
+- you can create many classes and interfaces in one package 
+- advantage 
+a) it is used to avoid naming confusion of classes or interfaces 
+b) it will help to maintain the code
+c) it will increase the reusability of code 
+d) so it will reduce time consumption 
+- you can create a package inside a package - it is called as sub package 
+
+
+-: import 
+- it will import class or interface 
+- it will not import package 
+- syntax 
+	import package_name.class_name;
+	or
+	import package_name.interface_name;
+	
+	e.g 
+	import org.jbk.test1.A;
+- you can define many import statements in one java file 
+- it will not import sub package 
+- ways to import 
+a) import package_name.*;
+	- * means all clasess or interfaces 
+b) specific path 
+e.g
+import package_name.class_name;
+or
+import package_name.interface_name;
+
+- java.lang
+- java.util
+- java.io
+- java.sql
+
+-> Question
+a) can import class or interface without import statement 
+b) what is package 
+c) explain import statement 
+
+1. create a class Student 
+	- define a property of Student 
+	- name,age,roll_no, sub1,sub2,sub3,sub4,sub5
+	- define a method to accept properties of Student 
+	- define a method print properties of Student 
+
+- create a class StudentTest
+	- define main() method 
+	- call method from Student class 
+
+- define a method to calculate total marks and print it 
+- define a method to calculate percentage of student and print it 
+- define a method to calculate grade of student and print it 
+
+/*--------------------*/
+
+24-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Access Modifier 
+
+-: Access Modifier 
+- the access modifier will tell you the scope of elements 
+- they will not tell you how to access that elements 
+- java has 4 access modifier 
+- types of access modifier 
+a) private 
+b) default 
+c) protected 
+d) public 
+
+- all access modifier are applicable to instance and static method 
+- all access modifier are applicable to instance and static variable
+- all access modifier are applicable to the constructor 
+- all access modifier are not applicable to local variable  
+- public and default access_modifier are applicable to outer class 
+- all access_modifier are applicable to inner class 
+
+a) private 
+- it is a keyword 
+- the scope of private access modifier is within a class 
+
+b) default
+- it is a keyword 
+- the scope of default access modifier is within a package
+- it is the by default access modifier in java 
+
+c) protected 
+- it is a keyword 
+- the scope of protected access modifier is within a package and outside the package only in a child class 
+
+d) public
+- it is a keyword 
+- you can access it from anywhere
+
+-: Encapsulation 
+- it is a concept of OOPs
+- to bind a data into a single entity is called as encapsulation
+e.g class 
+- to achieve the encapsulation by declaring data members or functions (methods) as private 
+- to access those private members or functions by using public getter and setter method 
+- POJO class - Plain Old Java Object class 
+
+- it is not complusory to declare getter and setter method public
+- you can define getter and setter method as protected, default and private
+- not only private variable have getter and setter method
+- you can declare getter and setter method for public, protected and default variable 
+- not only every private variable have getter and setter method
+- advantage
+	a) it will provide a data security 
+	
+private < default < protected < public 
+
+-: Question
+1) what is access modifier
+2) explain scope of each access modifier
+3) what is advantage of encapsulation 
+4) how to achieve encapsulation 
+
+1. create a class Employee 
+	- define properties of Employee 
+	- name,post,salary
+	- used encapsulation 
+	- define a method to accept properties 
+	- define a method to show properties 
+- create a class EmployeeDemo 
+	- define main() method 
+	- create object of Employee class
+/*----------------------*/
+
+25-03-2025
+
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Constructor 
+
+1. it is a special method 
+2. it has same name that class have 
+3. it does not have return_type - even void also not  allowed 
+4. it will execute immediately when object is created 
+5. all access_modifier are applicable to the constructor 
+6. you can create a private constructor 
+7. you can not declare constructor as static, final and abstract 
+8. you can pass argument to the constructor
+9. you can create many constructors in one class 
+10. you can create many object of one class
+11. one object can call only one constructor
+12. it is used to initialized the object and instance variable 
+13. without a constructor you can not execute the program 
+14. types of constructor 
+a) default constructor 
+- when the programmmer will not define any type of constructor then compiler will generate default constructor 
+- you can not pass argument and define custom code into default constructor 
+- public and default access_modifier is applicable to the default constructor 
+e.g
+public class A{
+	public A(){
+		super();
+	}
+}
+
+b) parameterized constructor 
+- this constructor define by programmer 
+- you can pass argument and define custom code into parameterized constructor 
+- all access_modifier are applicable to the constructor 
+e.g
+public class A{
+	public A(int d){
+		print(d*d);
+	}
+}
+
+c) non-parameterized constructor 
+- this constructor define by programmer 
+- you can not pass argument to non-parameterized constructor but you can define custom code into non-parameterized constructor
+e.g
+public class A{
+	public A(){
+		print("Hello");
+	}
+}
+
+15. you can not override the constructor 
+16. you can overload the constructor
+17. private constructor is used to create a singleton class - singleton class means you can create only one object of that class is called singleton class 
+- syntax 
+access_modifier constructor_name(parameter_list){
+	
+}
+
+18. you call method inside the constructor 
+
+-: Question 
+
+a) what is constructor?
+b) what is used fo constructor?
+c) explain types of constructors.
+
+-: create a class Book
+	- define a properties of Book 
+	- book_name,book_author,book_price,book_qnty,total
+	- define non-parameterized constructor - assign initial value to the properties 
+	- define a method to print properties 
+
+- create a class BookDemo
+	- define main() method 
+
+/*--------------------*/
+
+26-03-2025
+
+-: Last Session 
+-: Mark Your Attendance
+-: Today's Topic 
+-: Practical 
+
+1. Default Constructor:
+Write a Java program to create a class called "Cat" with instance variables name and age. Implement a default constructor that initializes the name to "Unknown" and the age to 0. Print the values of the variables.
+
+2. Parameterized Constructor:
+Write a Java program to create a class called Dog with instance variables name and color. Implement a parameterized constructor that takes name and color as parameters and initializes the instance variables. Print the values of the variables.
+
+3. create a class Employee 
+	- define a properties of Employee 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define a method to accept properties of Employee 
+	- define a method to show properties of Employee 
+
+- create a class EmployeeDemo
+	- define main() method 
+	- create a object of Employee 
+
+4. create a class Student
+	- define a properties of Student 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- used encapsulation 
+	- define a method to accept properties of Student 
+	- define a method to show properties of Student 
+	
+- create a class StudentDemo
+	- define main() method 
+	- create a object of Student 	
+	
+5. create a class Menu
+	- show following option
+	1. "Addition";
+	2. "Subtraction"
+	3. "Multiplcation"
+	4. "Division"
+	5. "Mod"
+	6. "Exit"
+
+- define accept option from user 
+- define a method for each arithmetic operation
+
+6. write a program to check the number is twisted prime number or not 
+e.g 
+int y=13;
+- reverse number of 13 is 31 - and 31 is also prime number so 13 and 31 are twisted prime number 
+
+7. create a class CheckNumber
+	- define a method to return the power of number - pass 2 int parameter base and power 
+	- define a method to return count of digit of number - pass int parameter 
+	
+	- define a main() method 
+
+8. create a class DoOperation
+	- define a method to return sum of digit of number - pass int parameter 
+	- define a method to return product of digit of number - pass int parameter 
+	- define a main() method 
+
+/*--------------------*/
+
+27-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Array In Java 
+
+-: Array 
+
+- it is a collection of homogenous(similar) data type and having a continous memory location
+- you can store many values under one variable name 
+- syntax 
+	data_type array_name[]=new data_type[size];
+	e.g 
+	long h1[]=new long[5];
+	String a1[]=new String[10];
+
+class Student{
+	Student s1=new Student();
+	Student s[]=new Student[5];
+	//int age[]=new int[5];
+	//String name[]=new String[5];
+}
+
+- you can perform CRUD operation on Array 
+C -: Create 
+R -: Read 
+U -: Update 
+D -: Delete 
+- Array has index 
+- Array will reduce a length of code 
+- Array will reduce the time consumption 
+- Array index starts from zero [0]
+int y[]=new int[5];
+- last index=size-1;
+- Array index is always integer
+- you can store primitive and reference value in Array 
+- types od Array 
+a) one dimensional 
+int y[]=new int[5];
+b) two dimensional 
+long h[][]=new long[5][3];
+c) multi dimensional 
+String s[][][]=nwe String[3][4][2];
+
+{} - class, interface, method, block, enum, array 
+() - method parameter, condition, expression, constructor parameter
+[] - Array 
+
+a) declaring array 
+
+1. int y[]=new int[5];
+2. String s[];
+	s=new String[7];
+3. long h[]={66,11,22,78,90};
+
+-
+int y[]=new int[3];
+int a=10;
+System.out.println(a);
+//System.out.println(y);
+y[0]=20;
+//y[3]=11;//Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 3
+y[2]=100;
+
+-
+int y[]=new int[-1];//Exception in thread "main" java.lang.NegativeArraySizeException
+y[-1]=333;
+
+-
+int h[]=new int[0];
+//h[0]=100;//Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+
+-: Question
+1) what is Array 
+2) explain type of Array 
+3) what is advantage of Array 
+4) what is dis-advantage of Array 
+
+- write a program to accept String value in array 
+- write a program to accept double value in array 
+- write a program to accept byte value in array 
+
+-:
+package com.tka.array1;
+
+import java.util.Scanner;
+
+public class G {
+	public static void main(String[] args) {
+		String s1[]=new String[5];
+		G g1=new G();
+		g1.acceptValue(s1);
+		g1.showValue(s1);
+		System.out.println();
+		g1.printReverse(s1);
+	}
+	public void printReverse(String t[]) {
+		for(int k=t.length-1;k>=0;k--) {
+			System.out.print(t[k]+" ");
+		}
+	}
+	public void showValue(String h[]) {
+		for(int k=0;k<h.length;k++) {
+			System.out.print(h[k]+" ");
+		}
+	}
+	public void acceptValue(String y[]) {
+		System.out.println("Enter String");
+		Scanner sc=new Scanner(System.in);
+		for(int k=0;k<y.length;k++) {
+			y[k]=sc.next();
+		}
+	}
+}
+
+/*---------------------*/
+
+28-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Array In Java 
+
+1. write a method to print even elements from array 
+2. write a method to print square of elements from array 
+3. write a method to print cube of elements from array 
+4. write a method to print square of odd elements from array 
+5. write a method to return sum of array elements 
+6. write a method to return product of array elements 
+7. write a method to return sum of even elements of array 
+8. write a method to return product of odd elements of array 
+9. write a method to accept only even number in array 
+10. write a method to accept only prime number in array  
+11. write a method to check specific element present in array or not 
+12. write a method to print duplicate element from array 
+13. write a method to print unique element from array  
+14. create a class Student 
+	- define a properties of Student 
+	- name,age,course
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define a method to accept properties of Student 
+	- define a method to show properties of Student 
+	
+- create a class StudentDemo
+	- define a main() method 
+	- create 5 object of Student 
+
+---->>>----
+
+1. write a method to return sum of odd elements of array 
+2. write a method to return product of even elements of array 
+3. write a method to accept only armstrong number in array 
+4. write a method to print common elements from 2 arrays 
+5. write a method to print uncommon elements from 2 arrays  
+6. write a method to print array in reverse 
+7. write a method to print even index elements 
+8. write a method to print odd index elements 
+9. write a method to print square of even index elements from array
+10. write a method to print square of odd index elements from array
+11. write a method to print cube of even index elements from array
+12. write a method to print cube of odd index elements from array
+
+/*------------------*/
+
+31-03-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Array In Java 
+
+1. create a class Employee 
+	- define Employee's properties 
+	- name,post and salary 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor
+	- define a method to accept data 
+	- define a method to show data 
+
+- create a class EmployeeDemo 
+	- define main() method 
+	- only call method from Employee class 
+
+Note -: 
+- create Employee array in Employee class with size of 5 
+- define a method to accept data into Employee array 
+- define a method to show data from Employee array 
+
+- define a method to sort a employee data according to salary from lower to higher
+- define a property age - define getter and setter method for it 
+- define a method to sort a employee data according to age from higher to lower 
+
+/*---------------------*/
+
+01-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Inheritance In Java 
+
+-: Inheritance 
+1. it is a concept of OOPs 
+2. one class can access the property of another class 
+3. child class can can access the property of parent class 
+e.g 
+class Loan{
+	personal_details();
+}
+class CarLoan extends Loan{
+	car_details();
+}
+4. 'extends' keyword is used for inheritance 
+- CarLoan can access the property of Loan class 
+5. parent class can not access the property of child class 
+6. private property of parent class can not inherited to child class 
+7. inheritance shows 'Is-A' relationship
+8. parent class have general(common) property 
+9. child class have specific property 
+10. Object is the parent class of all clasess of Java 
+- it has 11 methods
+- it is present in java.lang package 
+e.g 
+public String toString(), public boolean equals(), protected void finalize() etc.
+- it is present in java.lang package 
+11. 
+-: without inhertiance 
+
+a) repeatation of code
+b) to repeat the code it will take a time 
+c) maintainace of code is not easy 
+d) it will increase the length of code 
+
+12. 
+-: with inheritance 
+
+a) no repeatation of code
+b) it will reduce a time 
+c) maintainace of code is easy 
+d) it will not increase the length of code
+e) it will increase the reusability of code
+
+13. in inheritance both parent and child class thightly coupled with each other 
+14. 'Has-A' relationship 
+- it is the assocciation between 2 classes 
+- Composition
+	
+- Aggreegation 
+e.g 
+class University{
+	Department d=new Department();//composition
+	Teacher t=new Teacher();//aggreegation
+}
+class Department{
+	//University u=new University();
+}
+class Teacher{
+	
+}
+
+-: types of inheritance 
+1. single inheritance 
+2. multiple inheritance 
+3. multi-level inheritance 
+4. hirarchical inheritance 
+5. hybrid inheritance 
+6. cyclic inheritance 
+
+-: multiple,hybrid and cyclic inheritance will not support by java
+-: 
+
+a) single inheritance 
+class A{
+	void m1(){
+		print("Apple");
+	}
+}
+class B extends A{
+	void k1(){
+		print("Mango");	
+	}
+}
+class Demo{
+	main(){
+		A a1=new A();
+		a1.m1();
+		a1.k1();//Error
+		B b1=new B();
+		b1.k1();
+		b1.m1();
+	}
+}
+
+-: one parent class have only child class 
+
+b) multi-level inheritance 
+class A{
+	void m1(){
+		print("Apple");
+	}
+}
+class B extends A{
+	void k1(){
+		print("Mango");	
+	}
+}
+class C extends B{
+	void d1(){
+		print("Banana");
+	}
+}
+class Demo{
+	main(){
+		A a1=new A();
+		//a1.k1();
+		//a1.d1();
+		a1.m1();
+		System.out.println();
+		B b1=new B();
+		b1.k1();
+		//b1.d1();
+		b1.m1();
+		System.out.println();
+		C c1=new C();
+		c1.k1();
+		c1.d1();
+		c1.m1();
+	}
+}
+
+c) hirarchical inheritance 
+-: one parent class have many child classes 
+-: one child class have only one parent class 
+
+d) multiple inheritance 
+-: java does not support multiple inheritance 
+class A{
+	void m1(){
+		print("Apple");
+	}
+}
+class B{
+	void m1(){
+		print("Mango");	
+	}
+}
+class C extends B,A{//Error
+	void d1(){
+		print("Banana");
+	}
+}
+class Demo{
+	main(){
+		C c1=new C();
+		c1.d1();
+		c1.m1();
+	}
+}
+-: because of ambiguity error java does not support multiple inheritance 
+-: in java one child class do not have many parent classes 
+-: by using interface you can achieve multiple inheritance 
+
+e) hybrid inheritance 
+
+f) cyclic inheritance 
+public class A extends A{//Error
+	
+}
+
+-: 
+class A{
+	A(){
+		print("Banana");
+	}
+}
+class B extends A{
+	B(){
+		print("Cherry");
+	}
+}
+class Demo{
+	main(){
+		//A a1=new A();
+		//println();
+		B b1=new B();
+	}
+}
+
+-: when you create child class object it will execute (call) parent class constructor first 
+-: Question 
+1. explain types of inheritance 
+2. why java does not support multiple inheritance 
+
+-: 
+1. create a class Person 
+	- define Person's Properties 
+	- define a method to accept Person's properties 
+	- define a method to show Person's properties 
+
+create a class DemoPerson
+	- define main() method 
+	- create a Person class object 
+	- and accept Person property 
+	- and show Person property 
+
+2. create a class Student 
+	- it is a sub class of Person 
+	- define Student's Properties 
+	- define a method to accept Student's properties 
+	- define a method to show Student's properties 
+
+create a class DemoStudent
+	- define main() method 
+	- create a Student class object 
+	- and accept Person and Student property 
+	- and show Person and Student property 
+	
+/*----------------*/
+
+02-04-2025 
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Inheritance In Java 
+
+1. write a program to show single inheritance 
+2. write a program to show multi-level inheritance 
+3. 
+- create a class Vehicle 
+	- define a properties of vehicle 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define a method to accept vehicle properties 
+	- define a method to show vehicle properties
+- create a class Car 
+	- it is a sub class of Vehicle 
+	- define a properties of Car 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define a method to accept Car properties 
+	- define a method to show Car properties 
+
+- create a class CarDemo
+	- define a main() method 
+	- create object of Car 
+
+4. 
+- create a class MotorCycle
+	- it is a sub class of Vehicle 
+	- define a properties of MotorCycle 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define a method to accept MotorCycle properties 
+	- define a method to show MotorCycle properties 
+
+- create a class MotorCycleDemo
+	- define a main() method 
+	- create object of MotorCycle 
+
+5. write a program to show hierarchical inheritance 
+6. write a program to define while loop and loop will terminate when used will enter 7
+7. write a method to return count of even digit in number - accept number from user 
+int y=1298365;
+8. write a method to return count of odd digit in number - accept number from user 
+9. write a method to return count of prime number from 123 to 421 
+
+/*----------------------*/
+
+03-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: this and super	
+
+-: this keyword 
+- it is a keyword 
+- it is used to refere current class object 
+- it is used to access current class instance or static property (variable/method)
+- generally it is used to make difference between local variable and current class instance or static property
+(variable/method)
+- because some times local variable and instance or static variable have same name
+- you can used this keyword only in instance area 
+1. instance block
+2. instance method 
+3. constructor 
+
+- you can not used this keyword in static area 
+1. static block 
+2. static method 
+- you can not used this keyword in main() method 
+
+-: this() constructor 
+- it is used to call current class constructor 
+- it is used only in a constructor 
+- it should be the first line of constructor
+- you can not used more than one this() constructor in a constructor 
+
+- this keyword does not required inheritance 
+
+-: super keyword 
+- it is a keyword 
+- it is used to refere parent class object 
+- super keyword required inheritance 
+- it is used to access parent class instance or static property (variable/method)
+- generally it is used to make difference between child class instance or static property and parent class instance or static property (variable/method) 
+- because some times child class or parent class instance and static variable have same name
+- you can used super keyword only in instance area 
+1. instance block
+2. instance method 
+3. constructor 
+
+- you can not used super keyword in static area 
+1. static block 
+2. static method 
+- you can not used super keyword in main() method
+
+-: super() constructor 
+- it is used to call parent class constructor 
+- it is used only in a constructor 
+- it should be the first line of constructor
+- you can not used more than one super() constructor in a constructor 
+- you can not used this() and super() constructor at a same time 
+- if you not define either this() or super() constructor then by default super() constructor generated by complier 
+
+-: variable priority 
+1. local variable 
+2. current class instance or static variable 
+3. parent class instance or static variable 
+
+-: Question 
+a) what is difference between this and super keyword 
+
+1. create a class A
+	- write a program for enter number in loop and loop will terminate when 7 will enter 
+	
+class A{
+	main(){
+		print("enter number");
+		scanner code;
+		int y=sc.nextInt();
+		while(y!=7){
+			print("enter number");
+			y=sc.nextInt();
+		}
+	}
+}
+
+2. create a class Demo
+	- define main() method 
+	- create menu 
+	1. Addition
+	2. Subtraction
+	3. Multiplication
+	4. Division
+	5. Mod 
+	6. Exit 
+- define a separate method for each operation and take input from user  
+
+/*------------------*/
+04-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Practical 
+
+- used super and this 
+1. create a class Person 
+	- define properties of Person 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define method to accept properties of Person 
+	- define method to accept properties of Person 
+
+- create a class Student 
+	- it is sub class of Person 
+	- define properties of Student 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define method to accept properties of Student 
+	- define method to accept properties of Student 
+	
+- create a class StudentDemo
+	- define main() method 
+	- create object of 5 Student class 
+	
+	
+Create Company class
+  -it has name, and location as private variable
+  -it has parameterized and non paramatrized constructor
+  
+Create Employee as s SubClass 
+    it has   id,salary,desiganation
+	it has parameterized and non paramatrized constructor
+	
+Create	EmployeeController class
+   -it has accept() which take user input 
+     acccept method has Employee array as argument
+   -it has display method which will employee detials
+     acccept method has Employee array as argument
+   
+ ----------------
+
+Create Company class
+  -it has name, and location as private variable
+  -it has parameterized and non paramatrized constructor
+  
+Create Employee as s SubClass 
+    it has   id,salary,desiganation
+	it has parameterized and non paramatrized constructor
+	
+Create	EmployeeController class
+   -it has accept(Employee[] emp) which take user input 
+     acccept method has Employee array as argument
+  
+  -it has display(Employee[] emp) method which will employee detials
+      display method has Employee array as argument
+  - it has sortBySalary(Employee [] emp) method it will sort by salary 
+  
+   
+Create TestEmployee class
+  -it has main method
+  - create array of Employee of size 5
+  
+2. create a class Employee 
+	- it is sub class of Person 
+	- define properties of Employee 
+	- used encapsulation 
+	- define non-parameterized constructor 
+	- define parameterized constructor 
+	- define method to accept properties of Employee 
+	- define method to accept properties of Employee 
+
+- create a class EmployeeMain
+	- define main() method 
+	- create object of 5 Employee class 
+
+- define array of Employee in employee class 
+- when you create object of employee it will immediately add into array 
+
+/*-------------------*/
+
+07-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Polymorphism 
+
+- poly - many
+- morphism - form 
+
+1. the object have an ability to change its behaviour as per the requirement 
+2. types of polymorphism
+a) compiletime polymorphism 
+	- static polymorphism 
+	- early binding 
+	e.g 
+	method overloading, constructor overloading 
+b) runtime polymorphism
+	- dynamic polymorphism 
+	- late binding 
+	e.g 
+	method overriding 
+	
+1. method overloading 
+
+absi(int);
+absf(float);
+absd(double);
+absl(long);
+
+abs(int);
+abs(long);
+abs(float);
+abs(double);	
+
+- same class, same method name but having different arguments is called method overloading 
+- same class,same method name but have different method_signature is called method overloading 
+- inheritance does not have any role in method overloading 
+- access_modifier do not have any role in method overloading 
+- you can overload private method 
+- you can overload final method 
+- you can overload static method - means you can overload main() method 
+- return_type do not have any role in method overloading 
+- you can overload abstract method 
+- in method overloading the method calling is based on reference type 
+- method overloading is example of compiletime polymorphism 
+- it is also called as static polymorphism and early binding 
+- you can overload the constructor also 
+
+1. create a class A{
+	define private method and overload it 
+	define final method and overload it 
+	define static method and overload it 
+	and give different return type to each method 
+}
+
+2. create a class B{
+	show constructor overloading 
+}
+
+3. create a class C{
+	show main() method overloading 
+}
+
+
+
+- to call method 
+a) by its name
+b) by its argument 
+
+- argument 
+a) no.of arguments 
+void m1(){
+	//no.of arguments -0
+}
+void m1(int y){
+	//no.of arguments -1
+}
+void m1(int y,int e){
+	//no.of arguments -2
+}
+
+
+b) type of argument 
+void m1(){
+	//no.of arguments -0 type-
+}
+void m1(int y){
+	//no.of arguments -1, type- int
+}
+void m1(int y,int r){
+	//no.of arguments -2 ,type- int,int 
+}
+void m1(String s){
+	//no.of arguments -1, type -String 
+}
+
+c) order of argument 
+void m1(){
+	//no.of arguments-0 type- 
+}
+void m1(int y,String s){
+	//no.of arguments-2 type-int,String
+}
+void m1(String s,int y){
+	////no.of arguments-2 type-String,int
+}
+
+-: Question 
+1. what is polymorphism 
+2. explain type of polymorphism 
+3. explain method overloading
+
+4. print absolute difference between number 
+e.g
+int y=153
+output -: 351-153=198
+
+5. print factorial of each digit of number 
+e.g 
+int y=4137;
+
+6. check the number is spy number or not 
+int y=1124;
+int sum=1+1+2+4=8
+int product=1*1*2*4=8;
+
+/*-------------------*/
+
+08-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Polymorphism 
+
+-: Method Overriding 
+- method_signature should be same but one method in parent class and another method in child class 
+- inheritance is used in method overriding 
+- you can not override private method 
+- you can not override final method   
+- you can not override static method - main() method can not override 
+- access_modifier
+	- either you can keep same access_modifier or increase the scope of access_modifier 
+	- private < default < protected < public 
+- parent class reference can hold child class object 
+- it is called as dynamic dispatch
+- child class reference can not hold parent class object 
+
+String s1=new String("Apple");
+Object o1=new Object();
+
+Object o2=new String("Cherry");
+- parent class reference holding child class object 
+- it is called dynamic dispatch 
+
+String s2=new Object();//Error 
+
+-: return_type 
+- it is applicable to reference data_type 
+class_name
+interface_name
+enum_name
+array_name 
+
+- it is not applicable to primitive data_type 
+- either you can keep same return_type or if you want to change the return_type of overrided method then that return_type should be the child class of overriden method's return_type 
+- it is called as co-variant return_type 
+- it introduce in java-1.5
+
+-: Annotation
+- @Override
+- it will give more information about code 
+- it will apply all rules strictly regarding which concept annotation you used 
+- it introduce in java-1.5
+
+-: features of java-1.5 
+a) for each loop
+b) var arg method 
+c) static import 
+d) co-variant return_type 
+e) annotation 
+f) generic collection
+
+1. create a class Animal 
+	- define non-parameterized constructor 
+	- define method foodType(), mySound()
+
+- create a class Tiger 
+	- it is a sub class of Animal 
+	- define non-parameterized constructor
+	- override method of parent class 
+
+- create a class Deer 
+	- it is a sub class of Animal 
+	- define non-parameterized constructor
+	- override method of parent class 
+	
+- create a class DemoAnimal
+	- define main() method 
+	- create Tiger and Deer class object and call method 
+	
+-: Question 
+1. what is method overriding 
+2. what is co-variant return type 
+
+/*-----------------*/
+
+09-04-2025
+
+-: Last Session 
+-: Mark Your Attendance 
+-: Today's Topic 
+-: Test 
+
+- in method overriding method calling is based on runtime object that you pass to the reference 
+- method overriding is runtime polymorphism 
+- it is also called as dynamic polymorphism or late binding 
+
+1. Write a Java program to create a base class Animal (Animal Family) with a method called Sound(). Create two subclasses Bird and Cat. Override the Sound() method in each subclass to make a specific sound for each animal.
+
+2. Write a Java program to create a class Vehicle with a method called speedUp(). Create two subclasses Car and Bicycle. Override the speedUp() method in each subclass to increase the vehicle's speed differently.
+
+3. Write a Java program to create a base class Shape with a method called calculateArea(). Create three subclasses: Circle, Rectangle, and Triangle. Override the calculateArea() method in each subclass to calculate and return the shape's area.
+
+4. Write a Java program to create a class Employee with a method called calculateSalary(). Create two subclasses Manager and Programmer. In each subclass, override the calculateSalary() method to calculate and return the salary based on their specific roles. 
+
+/*------------------------*/
+
+10-04-2025 
+
+-: Last Session 
+-: Mark Your Attendance 
+-: Today's Topic 
+-: Practical
+
+Name -: 
+
+Hobbies -: 
+
+One Thing that you like yourself -: 
+
+Dream -: 
+
+Ambition -: 
+
+/*------------------------*/
+
+11-04-2025 
+
+-: Last Session 
+-: Mark Your Attendance 
+-: Today's Topic 
+-: Practical
+
+1. Create a class named 'Rectangle' with two data members 'length' and 'breadth' and two methods to print the area and perimeter of the rectangle respectively. Its constructor having parameters for length and breadth is used to initialize length and breadth of the rectangle. Let class 'Square' inherit the 'Rectangle' class with its constructor having a parameter for its side (suppose s) calling the constructor of its parent class as 'super(s,s)'. Print the area and perimeter of a rectangle and a square
+
+2. Create a class named 'Shape' with a method to print "This is This is shape". Then create two other classes named 'Rectangle', 'Circle' inheriting the Shape class, both having a method to print "This is rectangular shape" and "This is circular shape" respectively. Create a subclass 'Square' of 'Rectangle' having a method to print "Square is a rectangle". Now call the method of 'Shape' and 'Rectangle' class by the object of 'Square' class.
+
+3. 
+Create a class named 'Member' having the following members:
+Data members
+1 - Name
+2 - Age
+3 - Phone number
+4 - Address
+5 - Salary
+It also has a method named 'printSalary' which prints the salary of the members.
+Two classes 'Employee' and 'Manager' inherits the 'Member' class. The 'Employee' and 'Manager' classes have data members 'specialization' and 'department' respectively. Now, assign name, age, phone number, address and salary to an employee and a manager by making an object of both of these classes and print the same.
+
+4. 
+Write a Java program to create a base class Sports with a method called play(). Create three subclasses: Football, Basketball, and Rugby. Override the play() method in each subclass to play a specific statement for each sport.
+
+5.
+Write a Java program to create a base class Vehicle with methods startEngine() and stopEngine(). Create two subclasses Car and Motorcycle. Override the startEngine() and stopEngine() methods in each subclass to start and stop the engines differently.
+/*------------------*/
+
+14-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Abstraction
+
+-: Abstraction 
+- 
+class Animal{
+	void mySound(){
+		print("No-Sound");
+	}
+	void foodType(){
+		print("No-Food");
+	}
+}
+class Dog extends Animal{
+	@Override 
+	void mySound(){
+		print("Barking");
+	}
+	@Override
+	void foodType(){
+		print("Non-Veg");
+	}
+}
+------
+abstract class Animal{
+	abstract void mySound();
+	abstract void foodType();
+}
+
+class Dog extends Animal{
+	@Override 
+	void mySound(){
+		print("Barking");
+	}
+	@Override
+	void foodType(){
+		print("Non-Veg");
+	}
+}
+
+- abstraction means hide the implementation from user and show required services to user 
+e.g GUI - Graphical User Interface
+- ways to implements abstraction 
+a) abstract class 
+b) interface 
+
+-: abstract class 
+- it is incomplete class 
+- the class which have abstract keyword in the declaration is called abstract class
+e.g 
+public abstract class A{
+	
+}
+
+- this is concrete class 
+public class B{
+	
+}
+
+- abstract class contain abstract method and concrete method also 
+- you can define constructor in abstract class 
+- you can define static and instance block in abstract class 
+
+B b1=new B();
+
+- you can not create an object of abstract class 
+- you can create reference of abstract class 
+
+-: abstract method 
+- it is incomplete method 
+- the method which have abstract keyword in the method_signature is called abstract method 
+e.g
+public abstract void m1();
+
+- this is concrete method 
+public void k1(){
+	
+}
+
+- abstract method do have method body but concrete method have method body 
+- abstract method declare only in abstract class 
+- you can not declare abstract method in concrete class 
+- you can not declare abstract method as final, static and private 
+- if a concrete class inherite abstract class then it is a responsibility of child class to give method body to all abstract method present in parent class 
+
+- you can not declare abstract class as final
+- if a class is final then you can not create its child class 
+e.g String,Scanner and all wrapper clasess 
+
+- you can not declare constructor as abstract, final and static 
+- you can create empty abstract class 
+
+e.g 
+public class B { //outer class 
+	static class BB{//inner class 
+		
+	}
+}
+
+- you can not declare outer class as static but you can declare inner class as static 
+- generally abstract class consider as parent class 
+- you can overload abstract method 
+
+-: Question 
+1. what is abstraction 
+2. explain abstract class and method  
+
+--->>>---
+
+1. create a abstract class Flower 
+	- define properties of Flower 
+	- define non-parameterized constructor 
+	- define paramatrized constructor 
+	- define abstract method smell();,color();,name();isFork();
+
+- create a class Rose 
+	- it is sub class Flower 
+	- define non-parameterized constructor 
+	- define paramatrized constructor 
+	- give implementation to parent class
+
+- create a class Lotus 
+	- it is sub class Flower 
+	- define non-parameterized constructor 
+	- define paramatrized constructor 
+	- give implementation to parent class
+
+- create a class SunFlower 
+	- it is sub class Flower 
+	- define non-parameterized constructor 
+	- define paramatrized constructor 
+	- give implementation to parent class
+
+- create a class DemoFlower
+	- define main() method 
+	- create object of Rose, Lotus and SunFlower class 
+
+/*---------------*/
+
+15-04-2025
+
+-: Last Session 
+-: Mark Your Attendence
+-: Today's Topic 
+-: Intrerface
+
+-: Intrerface
+abstract class A{
+	static final int y=199;
+	abstract void m1();
+}
+
+class B extends A,D{//Error
+	void m1(){
+
+	}
+}
+class D{
+	void k1(){
+		
+	}
+}
+
+- abstract class will not provide 100% abstraction 
+1. you can create empty abstract class 
+2. you can define constructor in abstract class 
+3. you can define static or instance block in abstract class 
+4. you can define concrete method in abstract class 
+
+-: Intrerface
+- it is pure abstract class 
+- it provide 100% abstraction 
+- it is used to communicate between 2 application or system 
+- it is just like a contract between customer and service provider 
+- syntax 
+access_modifier interface interface_name{
+	
+}
+e.g 
+public interface A{
+	
+}
+
+- you can create empty interface
+- it is called as marker interface 
+e.g 
+Serializable,Cloneable 
+
+- you can not define constructor in interface 
+- you can not define static or instance block in interface 
+- you can not define concrete method in interface 
+
+public interface A{
+	public abstract void m1();
+	public void m2();
+	abstract void m3();
+	void m4();
+}
+
+- in interface by default all methods are public and abstract 
+
+public interface A{
+	public static final int y2=100;
+	static final int y1=100;
+	public final int y3=100;
+	public static int y4=100;
+	static int y5=100;
+	final int y6=100;
+	public int y7=100;
+	int y8=3200;
+}
+
+- in interface by default all variables are public,static and final
+- by using interface you can achieve the multiple inheritance 
+
+- class extends class 
+- class implements interface 
+- interface extends interface 
+
+- one interface can inherite another interface 
+e.g 
+public interface A{
+	
+}
+public interface B extends A{
+	
+}
+
+- one interface can extends many interfaces 
+e.g 
+public interface A{
+	
+}
+public interface D{
+	
+}
+public interface B extends A,D{
+	
+}
+
+- class implements interface 
+e.g 
+public interface A{
+	
+}
+public class TT implements A{
+	
+}
+
+- class can implements many interfaces
+e.g
+public interface A{
+	
+}
+public interface D{
+	
+}
+public class TT implements A,D{
+	
+}
+
+- one class can extends only one class 
+public class W{
+	
+}
+public interface A{
+	
+}
+public interface D{
+	
+}
+public class TT extends W implements A,D{
+	
+}
+
+- you can not create object of interface 
+- you can create reference of interface 
+- if a concrete class implements interface then it is a responsibility of implemented class to give method body to all abstract method present in interface 
+
+1. Create a class named 'Rectangle' with two data members 'length' and 'breadth' and two methods to print the area and perimeter of the rectangle respectively. Its constructor having parameters for length and breadth is used to initialize length and breadth of the rectangle. Let class 'Square' inherit the 'Rectangle' class with its constructor having a parameter for its side (suppose s) calling the constructor of its parent class as 'super(s,s)'. Print the area and perimeter of a rectangle and a square
+
+2. Create a class named 'Shape' with a method to print "This is This is shape". Then create two other classes named 'Rectangle', 'Circle' inheriting the Shape class, both having a method to print "This is rectangular shape" and "This is circular shape" respectively. Create a subclass 'Square' of 'Rectangle' having a method to print "Square is a rectangle". Now call the method of 'Shape' and 'Rectangle' class by the object of 'Square' class.
+
+
+3. Write a Java program to create a Animal interface with a method called bark() that takes no arguments and returns void. Create a Dog class that implements Animal and overrides speak() to print "Dog is barking".
+
+4.  Write a Java program to create an interface Shape with the getArea() method. Create three classes Rectangle, Circle, and Triangle that implement the Shape interface. Implement the getArea() method for each of the three classes.
+
+5. Write a Java program to create an interface Playable with a method play() that takes no arguments and returns void. Create three classes Football, Volleyball, and Basketball that implement the Playable interface and override the play() method to play the respective sports.
